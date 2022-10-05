@@ -7,7 +7,7 @@
 .note__title::before {
   display: inline-block;
   font-family: icomoon;
-  font-size: 13px;
+  font-size: 40px;
   padding-right: 3.5px;
 }
 .note_note > .note__title::before {
@@ -60,6 +60,7 @@ div.note {
   border-radius: var(--ifm-alert-border-radius);
   padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
   background: #112e4f;
+  background-color: red;
   color: #f5f6f7;
   border: none;
   font-size: 1rem;
